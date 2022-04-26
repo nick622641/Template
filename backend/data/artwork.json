@@ -1,0 +1,2854 @@
+[{
+  "_id": {
+    "$oid": "626495d204d6aaa7c8d529bf"
+  },
+  "name": "Metamorphosis of Narcissus",
+  "slug": "metamorphosis-of-narcissus",
+  "price": 50,
+  "width": 35,
+  "height": 25,
+  "depth": 0,
+  "description": "<p>Part of the sketchbook series, this one focusing on Dali</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/m1tpwjrwvbef3fcmhhsi",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650759122/products/m1tpwjrwvbef3fcmhhsi.jpg",
+      "thumb_id": "products/cpokwm83romzuuyrmd4n",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650759119/products/cpokwm83romzuuyrmd4n.jpg",
+      "_id": {
+        "$oid": "626495d204d6aaa7c8d529c0"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Landscape",
+  "media": "Ink",
+  "datePublished": {
+    "$date": "2022-04-24T00:06:24Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T00:12:02.840Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626497c92c2a77c3384cde7c"
+  },
+  "name": "The Scream",
+  "slug": "the-scream",
+  "price": 50,
+  "width": 25,
+  "height": 35,
+  "depth": 0,
+  "description": "<p>Study of Munch's \"The Scream\".</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/biacnb5qynobgfzwpla6",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650759623/products/biacnb5qynobgfzwpla6.jpg",
+      "thumb_id": "products/gnz0afuw5ieyugatpvfw",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650759619/products/gnz0afuw5ieyugatpvfw.jpg",
+      "_id": {
+        "$oid": "626497c92c2a77c3384cde7d"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Portrait",
+  "media": "Oil Pastel",
+  "datePublished": {
+    "$date": "2022-04-24T00:18:54Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T00:20:25.577Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626498c35a25340d443091c8"
+  },
+  "name": "Bonnie",
+  "slug": "bonnie",
+  "price": 75,
+  "width": 35,
+  "height": 55,
+  "depth": 0,
+  "description": "<p>Charcoal study of my pony Bonnie.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/tkuxo7lfxzmzgra1eb7g",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650759874/products/tkuxo7lfxzmzgra1eb7g.jpg",
+      "thumb_id": "products/wg7mkowsrr0o2iqwfsrk",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650759872/products/wg7mkowsrr0o2iqwfsrk.jpg",
+      "_id": {
+        "$oid": "626498c35a25340d443091c9"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Portrait",
+  "media": "Charcoal",
+  "datePublished": {
+    "$date": "2022-04-24T00:22:29Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T00:24:35.266Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626499565a25340d443091db"
+  },
+  "name": "Dragon Tattoo",
+  "slug": "dragon-tattoo",
+  "price": 130,
+  "width": 20,
+  "height": 35,
+  "depth": 0,
+  "description": "<p>A doodle that ended up as a dragon!</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/eakvfbxj4fgyycdzj0no",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650760022/products/eakvfbxj4fgyycdzj0no.jpg",
+      "thumb_id": "products/rhcptulgmhz0g9qjprb1",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650760019/products/rhcptulgmhz0g9qjprb1.jpg",
+      "_id": {
+        "$oid": "626499565a25340d443091dc"
+      }
+    },
+    {
+      "public_id": "products/lbecq0mhao5cwq64pvnu",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766986/products/lbecq0mhao5cwq64pvnu.jpg",
+      "thumb_id": "products/pvrvqkkyhgwyoq0bs0fi",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766982/products/pvrvqkkyhgwyoq0bs0fi.jpg",
+      "_id": {
+        "$oid": "6264b48a3836e88c82ddf229"
+      }
+    },
+    {
+      "public_id": "products/ntl7di5qu1ns9jxew3vs",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766992/products/ntl7di5qu1ns9jxew3vs.jpg",
+      "thumb_id": "products/ry8zm5pmr9occngiejjl",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766989/products/ry8zm5pmr9occngiejjl.jpg",
+      "_id": {
+        "$oid": "6264b4913836e88c82ddf22a"
+      }
+    },
+    {
+      "public_id": "products/bx83bg4bwoxc3dkf7j4k",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766997/products/bx83bg4bwoxc3dkf7j4k.jpg",
+      "thumb_id": "products/r1p12kg1nzb57lfh4ybp",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766995/products/r1p12kg1nzb57lfh4ybp.jpg",
+      "_id": {
+        "$oid": "6264b4963836e88c82ddf22b"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Portrait",
+  "media": "Ink",
+  "datePublished": {
+    "$date": "2022-04-24T00:00:00Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T00:27:02.813Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62649c0fa1eacc62c254cd0f"
+  },
+  "name": "Betws-y-Coed, Wales",
+  "slug": "betws-y-coed-wales",
+  "price": 250,
+  "width": 25,
+  "height": 35,
+  "depth": 0,
+  "description": "<p>Charcoal and putty rubber sketch during a trip to Wales.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/efmf2vhl8lade5etyogt",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650760694/products/efmf2vhl8lade5etyogt.jpg",
+      "thumb_id": "products/zhie5lff2jjihtyjzdpz",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650760691/products/zhie5lff2jjihtyjzdpz.jpg",
+      "_id": {
+        "$oid": "62649c0fa1eacc62c254cd10"
+      }
+    },
+    {
+      "public_id": "products/mt5yzmn9v0ckwupigzjv",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650760717/products/mt5yzmn9v0ckwupigzjv.jpg",
+      "thumb_id": "products/cnqyqwbwdixdpl744nox",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650760712/products/cnqyqwbwdixdpl744nox.jpg",
+      "_id": {
+        "$oid": "62649c0fa1eacc62c254cd13"
+      }
+    },
+    {
+      "public_id": "products/yoai3icmz4wgu7jz9xqa",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650760701/products/yoai3icmz4wgu7jz9xqa.jpg",
+      "thumb_id": "products/e4oegzzhc17stffyfwzp",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650760698/products/e4oegzzhc17stffyfwzp.jpg",
+      "_id": {
+        "$oid": "62649c0fa1eacc62c254cd11"
+      }
+    },
+    {
+      "public_id": "products/zthpm1vxefjffyteruvc",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650760707/products/zthpm1vxefjffyteruvc.jpg",
+      "thumb_id": "products/emp3odezgdq4hpgby4qm",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650760704/products/emp3odezgdq4hpgby4qm.jpg",
+      "_id": {
+        "$oid": "62649c0fa1eacc62c254cd12"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Portrait",
+  "media": "Charcoal",
+  "datePublished": {
+    "$date": "2022-04-24T00:30:03Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T00:38:39.678Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264a00d4f4edac2c8600557"
+  },
+  "name": "Waterfalls at Torpantau, Wales",
+  "slug": "waterfalls-at-torpantau-wales",
+  "price": 250,
+  "width": 25,
+  "height": 35,
+  "depth": 0,
+  "description": "<p>Field sketch during a trip to Wales.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/af1y1mfv1xd81hpqeoyf",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650761730/products/af1y1mfv1xd81hpqeoyf.jpg",
+      "thumb_id": "products/nsqopcrgrcfq1y0cc1fs",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650761727/products/nsqopcrgrcfq1y0cc1fs.jpg",
+      "_id": {
+        "$oid": "6264a00d4f4edac2c8600558"
+      }
+    },
+    {
+      "public_id": "products/nuimlomtcisrjfvdoxej",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650761740/products/nuimlomtcisrjfvdoxej.jpg",
+      "thumb_id": "products/gv5b6qsb0stdu3l6hw9l",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650761735/products/gv5b6qsb0stdu3l6hw9l.jpg",
+      "_id": {
+        "$oid": "6264a00d4f4edac2c8600559"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Portrait",
+  "media": "Charcoal",
+  "datePublished": {
+    "$date": "2022-04-24T00:53:48Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T00:55:41.102Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264a11a4f4edac2c8600574"
+  },
+  "name": "Tree Studies",
+  "slug": "tree-studies",
+  "price": 150,
+  "width": 25,
+  "height": 35,
+  "depth": 0,
+  "description": "<p>Collection of tree studies in charcoal and pencil.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/plk3mgu1jnzg1evfycmt",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650761932/products/plk3mgu1jnzg1evfycmt.jpg",
+      "thumb_id": "products/iudape9fqknhzely8us4",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650761929/products/iudape9fqknhzely8us4.jpg",
+      "_id": {
+        "$oid": "6264a11a4f4edac2c8600575"
+      }
+    },
+    {
+      "public_id": "products/wu9lkrnf7ywom7ijykpr",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650761937/products/wu9lkrnf7ywom7ijykpr.jpg",
+      "thumb_id": "products/apbtiebpa1vczfo85okr",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650761935/products/apbtiebpa1vczfo85okr.jpg",
+      "_id": {
+        "$oid": "6264a11a4f4edac2c8600576"
+      }
+    },
+    {
+      "public_id": "products/ft1cbtspdnqvy0n7wu4n",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650761944/products/ft1cbtspdnqvy0n7wu4n.jpg",
+      "thumb_id": "products/y5bebxfuwd1lhijo5ssx",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650761941/products/y5bebxfuwd1lhijo5ssx.jpg",
+      "_id": {
+        "$oid": "6264a11a4f4edac2c8600577"
+      }
+    },
+    {
+      "public_id": "products/fyxhux1eeacmvbwhjaj8",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650761950/products/fyxhux1eeacmvbwhjaj8.jpg",
+      "thumb_id": "products/pzujwzgtkkgugwoggmbj",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650761947/products/pzujwzgtkkgugwoggmbj.jpg",
+      "_id": {
+        "$oid": "6264a11a4f4edac2c8600578"
+      }
+    },
+    {
+      "public_id": "products/efo7fnqsjqt6cvxfhg9f",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650761957/products/efo7fnqsjqt6cvxfhg9f.jpg",
+      "thumb_id": "products/qysvllvnvmdfqorm65v7",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650761954/products/qysvllvnvmdfqorm65v7.jpg",
+      "_id": {
+        "$oid": "6264a11a4f4edac2c8600579"
+      }
+    },
+    {
+      "public_id": "products/re5wehku7osbfbne0jxh",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650761964/products/re5wehku7osbfbne0jxh.jpg",
+      "thumb_id": "products/egjohh0vhinztabcstzn",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650761961/products/egjohh0vhinztabcstzn.jpg",
+      "_id": {
+        "$oid": "6264a11a4f4edac2c860057a"
+      }
+    },
+    {
+      "public_id": "products/kuzz6dxpn3m0zbyggmxr",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650761970/products/kuzz6dxpn3m0zbyggmxr.jpg",
+      "thumb_id": "products/u4wxqimnqgsutojlco3y",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650761967/products/u4wxqimnqgsutojlco3y.jpg",
+      "_id": {
+        "$oid": "6264a11a4f4edac2c860057b"
+      }
+    },
+    {
+      "public_id": "products/umq9o2orfxlhpl5trxkw",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650761978/products/umq9o2orfxlhpl5trxkw.jpg",
+      "thumb_id": "products/bq8qw25mm4sl47wn5cu2",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650761974/products/bq8qw25mm4sl47wn5cu2.jpg",
+      "_id": {
+        "$oid": "6264a11a4f4edac2c860057c"
+      }
+    },
+    {
+      "public_id": "products/qguxe08ikldiht0udnba",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650761982/products/qguxe08ikldiht0udnba.jpg",
+      "thumb_id": "products/gyqdzcua5ieo16h3qom8",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650761980/products/gyqdzcua5ieo16h3qom8.jpg",
+      "_id": {
+        "$oid": "6264a11a4f4edac2c860057d"
+      }
+    },
+    {
+      "public_id": "products/mh0hfyvt0nfndmtpqw9q",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650761989/products/mh0hfyvt0nfndmtpqw9q.jpg",
+      "thumb_id": "products/sewvfl95ilood9rfdqms",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650761986/products/sewvfl95ilood9rfdqms.jpg",
+      "_id": {
+        "$oid": "6264a11a4f4edac2c860057e"
+      }
+    },
+    {
+      "public_id": "products/hso9h5dfztm7ayuhzfjn",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650761995/products/hso9h5dfztm7ayuhzfjn.jpg",
+      "thumb_id": "products/ibf4nosehn31kkpxrv4r",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650761992/products/ibf4nosehn31kkpxrv4r.jpg",
+      "_id": {
+        "$oid": "6264a11a4f4edac2c860057f"
+      }
+    },
+    {
+      "public_id": "products/vzep5x2eapjdkqwzbsrv",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650762001/products/vzep5x2eapjdkqwzbsrv.jpg",
+      "thumb_id": "products/at8vzxuead4jg8roqitj",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650761999/products/at8vzxuead4jg8roqitj.jpg",
+      "_id": {
+        "$oid": "6264a11a4f4edac2c8600580"
+      }
+    },
+    {
+      "public_id": "products/xcub5tnuoabechwoozqc",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650762010/products/xcub5tnuoabechwoozqc.jpg",
+      "thumb_id": "products/pbckyzknk51i4petgh1x",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650762006/products/pbckyzknk51i4petgh1x.jpg",
+      "_id": {
+        "$oid": "6264a11a4f4edac2c8600581"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Portrait",
+  "media": "Charcoal",
+  "datePublished": {
+    "$date": "2022-04-24T00:56:49Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T01:00:10.884Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264a2a14f4edac2c86005a4"
+  },
+  "name": "Winter Oak",
+  "slug": "winter-oak",
+  "price": 150,
+  "width": 17,
+  "height": 22,
+  "depth": 0,
+  "description": "<p>Charcoal study of an English Oak in winter.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/madjkdmhooe5xo7dtwxq",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650762382/products/madjkdmhooe5xo7dtwxq.jpg",
+      "thumb_id": "products/d0abb02fpnsdvmp8adqe",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650762379/products/d0abb02fpnsdvmp8adqe.jpg",
+      "_id": {
+        "$oid": "6264a2a14f4edac2c86005a5"
+      }
+    },
+    {
+      "public_id": "products/oocygg21zaizzhds8woq",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650762400/products/oocygg21zaizzhds8woq.jpg",
+      "thumb_id": "products/peid4pdkzvrjr32qvzqt",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650762387/products/peid4pdkzvrjr32qvzqt.jpg",
+      "_id": {
+        "$oid": "6264a2a14f4edac2c86005a6"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Portrait",
+  "media": "Charcoal",
+  "datePublished": {
+    "$date": "2022-04-24T01:04:07Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T01:06:41.811Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264a4284f4edac2c86005b8"
+  },
+  "name": "The Brecklands",
+  "slug": "the-brecklands",
+  "price": 350,
+  "width": 25,
+  "height": 35,
+  "depth": 0,
+  "description": "<p>Pine trees in The Brecklands, Norfolk.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/tdwkgdzxinx9qi74qna8",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650762791/products/tdwkgdzxinx9qi74qna8.jpg",
+      "thumb_id": "products/ea66nubqqeklzd7qmj5u",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650762788/products/ea66nubqqeklzd7qmj5u.jpg",
+      "_id": {
+        "$oid": "6264a4284f4edac2c86005ba"
+      }
+    },
+    {
+      "public_id": "products/pltce1caloxk6zoeslda",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650762784/products/pltce1caloxk6zoeslda.jpg",
+      "thumb_id": "products/hysebkhjpksd6cdj5bdr",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650762780/products/hysebkhjpksd6cdj5bdr.jpg",
+      "_id": {
+        "$oid": "6264a4284f4edac2c86005b9"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Portrait",
+  "media": "Charcoal",
+  "datePublished": {
+    "$date": "2022-04-24T01:10:18Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T01:13:12.548Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264a6244f4edac2c86005f6"
+  },
+  "name": "Red Kite",
+  "slug": "red-kite",
+  "price": 1197,
+  "width": 25,
+  "height": 15,
+  "depth": 0,
+  "description": "<p>In honour of my great friend David Feather.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/dnc06jj1inknu0nwve8w",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763204/products/dnc06jj1inknu0nwve8w.jpg",
+      "thumb_id": "products/n9xuhxdxscgzqc4mi4dr",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763200/products/n9xuhxdxscgzqc4mi4dr.jpg",
+      "_id": {
+        "$oid": "6264a6244f4edac2c86005f7"
+      }
+    },
+    {
+      "public_id": "products/on4qnyfbrm6rksob2tfi",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763298/products/on4qnyfbrm6rksob2tfi.jpg",
+      "thumb_id": "products/kfe7qyy6vf1bhiw0xqig",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763293/products/kfe7qyy6vf1bhiw0xqig.jpg",
+      "_id": {
+        "$oid": "6264a6244f4edac2c8600607"
+      }
+    },
+    {
+      "public_id": "products/oxl6p7e9pch7afe1fu9y",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763288/products/oxl6p7e9pch7afe1fu9y.png",
+      "thumb_id": "products/thypduhh8wqhzpoardcj",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763284/products/thypduhh8wqhzpoardcj.png",
+      "_id": {
+        "$oid": "6264a6244f4edac2c8600606"
+      }
+    },
+    {
+      "public_id": "products/ph1hiyieq1vhnrgzaanu",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763264/products/ph1hiyieq1vhnrgzaanu.png",
+      "thumb_id": "products/rkacv6rog3eubiua9jvh",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763261/products/rkacv6rog3eubiua9jvh.png",
+      "_id": {
+        "$oid": "6264a6244f4edac2c8600603"
+      }
+    },
+    {
+      "public_id": "products/z11gzipq64gwqvefeoct",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763273/products/z11gzipq64gwqvefeoct.png",
+      "thumb_id": "products/felgl5mqmjn5enk0ryjm",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763270/products/felgl5mqmjn5enk0ryjm.png",
+      "_id": {
+        "$oid": "6264a6244f4edac2c8600604"
+      }
+    },
+    {
+      "public_id": "products/scvsxevppqdtbwcolw17",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763249/products/scvsxevppqdtbwcolw17.jpg",
+      "thumb_id": "products/ssuq03icjgmewal2fkjc",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763247/products/ssuq03icjgmewal2fkjc.jpg",
+      "_id": {
+        "$oid": "6264a6244f4edac2c8600600"
+      }
+    },
+    {
+      "public_id": "products/uv8pe1se3srtbwoxymuw",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763253/products/uv8pe1se3srtbwoxymuw.jpg",
+      "thumb_id": "products/mqbcigcyuunlu1himk4p",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763251/products/mqbcigcyuunlu1himk4p.jpg",
+      "_id": {
+        "$oid": "6264a6244f4edac2c8600601"
+      }
+    },
+    {
+      "public_id": "products/tb34dpmh6hoqtu0rsbvm",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763208/products/tb34dpmh6hoqtu0rsbvm.jpg",
+      "thumb_id": "products/pvrd97trxkld4egeasas",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763206/products/pvrd97trxkld4egeasas.jpg",
+      "_id": {
+        "$oid": "6264a6244f4edac2c86005f8"
+      }
+    },
+    {
+      "public_id": "products/vplneoyb6n7lutlzjfo5",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763212/products/vplneoyb6n7lutlzjfo5.jpg",
+      "thumb_id": "products/c0cmqnqk91rurq2avzps",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763210/products/c0cmqnqk91rurq2avzps.jpg",
+      "_id": {
+        "$oid": "6264a6244f4edac2c86005f9"
+      }
+    },
+    {
+      "public_id": "products/tzorb2q7ttvufmspr9ce",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763218/products/tzorb2q7ttvufmspr9ce.jpg",
+      "thumb_id": "products/y47mm8kxl3c4dndhjnd4",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763215/products/y47mm8kxl3c4dndhjnd4.jpg",
+      "_id": {
+        "$oid": "6264a6244f4edac2c86005fa"
+      }
+    },
+    {
+      "public_id": "products/wjewrupvkaie5r1bbhrm",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763224/products/wjewrupvkaie5r1bbhrm.jpg",
+      "thumb_id": "products/wysqluxtgumg31knol2y",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763221/products/wysqluxtgumg31knol2y.jpg",
+      "_id": {
+        "$oid": "6264a6244f4edac2c86005fb"
+      }
+    },
+    {
+      "public_id": "products/aiupzprxqocab1ul9zcn",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763230/products/aiupzprxqocab1ul9zcn.jpg",
+      "thumb_id": "products/xqzhbz4gwxkrpijxw0nr",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763227/products/xqzhbz4gwxkrpijxw0nr.jpg",
+      "_id": {
+        "$oid": "6264a6244f4edac2c86005fc"
+      }
+    },
+    {
+      "public_id": "products/wfcjo28fakg6plcpgyct",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763234/products/wfcjo28fakg6plcpgyct.jpg",
+      "thumb_id": "products/uv15sgveo7won3m1tath",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763232/products/uv15sgveo7won3m1tath.jpg",
+      "_id": {
+        "$oid": "6264a6244f4edac2c86005fd"
+      }
+    },
+    {
+      "public_id": "products/aujmgz3inkibtnsxthc2",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763240/products/aujmgz3inkibtnsxthc2.jpg",
+      "thumb_id": "products/hzkebrgmnzvsu3wqwims",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763237/products/hzkebrgmnzvsu3wqwims.jpg",
+      "_id": {
+        "$oid": "6264a6244f4edac2c86005fe"
+      }
+    },
+    {
+      "public_id": "products/ps815opryrqljvdbtmii",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763244/products/ps815opryrqljvdbtmii.jpg",
+      "thumb_id": "products/eja66hiv2z61lpxwxhll",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763242/products/eja66hiv2z61lpxwxhll.jpg",
+      "_id": {
+        "$oid": "6264a6244f4edac2c86005ff"
+      }
+    },
+    {
+      "public_id": "products/vsnypnxaokjkhmhjryg7",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763257/products/vsnypnxaokjkhmhjryg7.jpg",
+      "thumb_id": "products/mwcpw7if0jdnlyfvwclq",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763255/products/mwcpw7if0jdnlyfvwclq.jpg",
+      "_id": {
+        "$oid": "6264a6244f4edac2c8600602"
+      }
+    },
+    {
+      "public_id": "products/qf4tp09t0twnchfci702",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763280/products/qf4tp09t0twnchfci702.jpg",
+      "thumb_id": "products/cfh5s579sitpru447d9u",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763277/products/cfh5s579sitpru447d9u.jpg",
+      "_id": {
+        "$oid": "6264a6244f4edac2c8600605"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Landscape",
+  "media": "Acrylic on Canvas",
+  "datePublished": {
+    "$date": "2022-04-24T01:15:22.212Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T01:21:40.205Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264a7e34f4edac2c86006ec"
+  },
+  "name": "A Street in France",
+  "slug": "a-street-in-france",
+  "price": 75,
+  "width": 25,
+  "height": 35,
+  "depth": 0,
+  "description": "<p>A study of a quiet street in the South of France.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/vjilmb9pmgfu6esqqshh",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763747/products/vjilmb9pmgfu6esqqshh.jpg",
+      "thumb_id": "products/tvxgc0crw1bwsdkn6jgz",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763744/products/tvxgc0crw1bwsdkn6jgz.jpg",
+      "_id": {
+        "$oid": "6264a7e34f4edac2c86006f3"
+      }
+    },
+    {
+      "public_id": "products/whbjjenr6oz5be8rpsms",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763723/products/whbjjenr6oz5be8rpsms.jpg",
+      "thumb_id": "products/ddcrneonzqucrtvizafh",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763710/products/ddcrneonzqucrtvizafh.jpg",
+      "_id": {
+        "$oid": "6264a7e34f4edac2c86006ef"
+      }
+    },
+    {
+      "public_id": "products/gqlsrqgweea1inownikb",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763735/products/gqlsrqgweea1inownikb.jpg",
+      "thumb_id": "products/aqv9juw5kpf61latgqex",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763732/products/aqv9juw5kpf61latgqex.jpg",
+      "_id": {
+        "$oid": "6264a7e34f4edac2c86006f1"
+      }
+    },
+    {
+      "public_id": "products/lywdpzx6tcjaeqer9hej",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763741/products/lywdpzx6tcjaeqer9hej.jpg",
+      "thumb_id": "products/b7o139j4vakeyxcoxova",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763738/products/b7o139j4vakeyxcoxova.jpg",
+      "_id": {
+        "$oid": "6264a7e34f4edac2c86006f2"
+      }
+    },
+    {
+      "public_id": "products/hgwkcow1fpbrl6sjmjze",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763706/products/hgwkcow1fpbrl6sjmjze.jpg",
+      "thumb_id": "products/an3bwzlvbhlpwyiigy06",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763703/products/an3bwzlvbhlpwyiigy06.jpg",
+      "_id": {
+        "$oid": "6264a7e34f4edac2c86006ee"
+      }
+    },
+    {
+      "public_id": "products/pgmiguyjggvz8nc7qpfk",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763700/products/pgmiguyjggvz8nc7qpfk.jpg",
+      "thumb_id": "products/v0hskk7xhgdunehvkxgi",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763697/products/v0hskk7xhgdunehvkxgi.jpg",
+      "_id": {
+        "$oid": "6264a7e34f4edac2c86006ed"
+      }
+    },
+    {
+      "public_id": "products/fjbfc5e9qzu25u2kagjr",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763729/products/fjbfc5e9qzu25u2kagjr.jpg",
+      "thumb_id": "products/mpd93kdlwz3ysaxhblbx",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650763726/products/mpd93kdlwz3ysaxhblbx.jpg",
+      "_id": {
+        "$oid": "6264a7e34f4edac2c86006f0"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Portrait",
+  "media": "Watercolour",
+  "datePublished": {
+    "$date": "2022-04-24T01:26:40Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T01:29:07.887Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264aa4f4f4edac2c860078c"
+  },
+  "name": "Butterfly Dream",
+  "slug": "butterfly-dream",
+  "price": 75,
+  "width": 25,
+  "height": 35,
+  "depth": 0,
+  "description": "<p>Some fun with some different mediums.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/l8pbadxirhuomn0tncwp",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650764337/products/l8pbadxirhuomn0tncwp.jpg",
+      "thumb_id": "products/n8fvvg2s3l9m1lqrezhw",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650764334/products/n8fvvg2s3l9m1lqrezhw.jpg",
+      "_id": {
+        "$oid": "6264aa4f4f4edac2c860078e"
+      }
+    },
+    {
+      "public_id": "products/tazba22ifkemh1q0p4rh",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650764331/products/tazba22ifkemh1q0p4rh.jpg",
+      "thumb_id": "products/w2i05gwhcvcy07bgwowc",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650764327/products/w2i05gwhcvcy07bgwowc.jpg",
+      "_id": {
+        "$oid": "6264aa4f4f4edac2c860078d"
+      }
+    },
+    {
+      "public_id": "products/mr6jdfm8heti2dufuwmr",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650764343/products/mr6jdfm8heti2dufuwmr.jpg",
+      "thumb_id": "products/pi0wkrz73frftnnffsia",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650764340/products/pi0wkrz73frftnnffsia.jpg",
+      "_id": {
+        "$oid": "6264aa4f4f4edac2c860078f"
+      }
+    },
+    {
+      "public_id": "products/h4tarwio57639dw82u3h",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650764348/products/h4tarwio57639dw82u3h.jpg",
+      "thumb_id": "products/sbxywthlb8e8gcskzudt",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650764346/products/sbxywthlb8e8gcskzudt.jpg",
+      "_id": {
+        "$oid": "6264aa4f4f4edac2c8600790"
+      }
+    },
+    {
+      "public_id": "products/s70iqrecczqkwcnltecg",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650764355/products/s70iqrecczqkwcnltecg.jpg",
+      "thumb_id": "products/g0elxqxmu6lsptw34qcs",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650764352/products/g0elxqxmu6lsptw34qcs.jpg",
+      "_id": {
+        "$oid": "6264aa4f4f4edac2c8600791"
+      }
+    },
+    {
+      "public_id": "products/ubvva6vgjtibwushaykj",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650764360/products/ubvva6vgjtibwushaykj.jpg",
+      "thumb_id": "products/djftjvelcnr31hce5gyi",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650764358/products/djftjvelcnr31hce5gyi.jpg",
+      "_id": {
+        "$oid": "6264aa4f4f4edac2c8600792"
+      }
+    },
+    {
+      "public_id": "products/xdf8grfwryqeygox1pu2",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650764365/products/xdf8grfwryqeygox1pu2.jpg",
+      "thumb_id": "products/roiwjegy1gbojva9uio5",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650764363/products/roiwjegy1gbojva9uio5.jpg",
+      "_id": {
+        "$oid": "6264aa4f4f4edac2c8600793"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Portrait",
+  "media": "Mixed Media",
+  "datePublished": {
+    "$date": "2022-04-24T01:37:19Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T01:39:27.106Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264ab864f4edac2c86007c5"
+  },
+  "name": "Warhammer",
+  "slug": "warhammer",
+  "price": 50,
+  "width": 15,
+  "height": 25,
+  "depth": 0,
+  "description": "<p>Some of my earliest work was inspired by the fantasy novels I used to read.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/ej95wq7urbwmslhkdn6r",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650764662/products/ej95wq7urbwmslhkdn6r.jpg",
+      "thumb_id": "products/rqgk6bw78sgbhvxrckuf",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650764659/products/rqgk6bw78sgbhvxrckuf.jpg",
+      "_id": {
+        "$oid": "6264ab864f4edac2c86007c7"
+      }
+    },
+    {
+      "public_id": "products/rrjoufjcd2lgo2volm4h",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650764677/products/rrjoufjcd2lgo2volm4h.jpg",
+      "thumb_id": "products/s40u52arig9igluz8cst",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650764673/products/s40u52arig9igluz8cst.jpg",
+      "_id": {
+        "$oid": "6264ab864f4edac2c86007c9"
+      }
+    },
+    {
+      "public_id": "products/kjoanpapsjamm28xicuv",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650764656/products/kjoanpapsjamm28xicuv.jpg",
+      "thumb_id": "products/woy14sw52sze4v4pwzcl",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650764653/products/woy14sw52sze4v4pwzcl.jpg",
+      "_id": {
+        "$oid": "6264ab864f4edac2c86007c6"
+      }
+    },
+    {
+      "public_id": "products/dkruaycjvm2v6ayapbp8",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650764669/products/dkruaycjvm2v6ayapbp8.jpg",
+      "thumb_id": "products/m63xwkfuscrvtnpairec",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650764666/products/m63xwkfuscrvtnpairec.jpg",
+      "_id": {
+        "$oid": "6264ab864f4edac2c86007c8"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Portrait",
+  "media": "Pencil",
+  "datePublished": {
+    "$date": "2022-04-24T01:42:42Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T01:44:38.575Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264accc4f4edac2c860080a"
+  },
+  "name": "Seville Orange",
+  "slug": "seville-orange",
+  "price": 50,
+  "width": 17,
+  "height": 17,
+  "depth": 0,
+  "description": "<p>The first in a series of fruit still lives.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/ljchk5z2eiwyzmln2vmt",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650764995/products/ljchk5z2eiwyzmln2vmt.jpg",
+      "thumb_id": "products/z6vjmlpvjbwv8mkcqpey",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650764993/products/z6vjmlpvjbwv8mkcqpey.jpg",
+      "_id": {
+        "$oid": "6264accc4f4edac2c860080b"
+      }
+    },
+    {
+      "public_id": "products/tgclw3x8ou6wjlfsrnx4",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650765003/products/tgclw3x8ou6wjlfsrnx4.jpg",
+      "thumb_id": "products/fd148t3nabxwpbbwgnsc",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650764999/products/fd148t3nabxwpbbwgnsc.jpg",
+      "_id": {
+        "$oid": "6264accc4f4edac2c860080c"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Square",
+  "media": "Oil Pastel",
+  "datePublished": {
+    "$date": "2022-04-24T01:48:25Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T01:50:04.779Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264adbb4f4edac2c860081e"
+  },
+  "name": "Apples Study",
+  "slug": "apples-study",
+  "price": 75,
+  "width": 20,
+  "height": 15,
+  "depth": 0,
+  "description": "<p>Apple study is the second in the fruit n' veg still lifes.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/k1ixjjoagghrhkbvhlsf",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650765234/products/k1ixjjoagghrhkbvhlsf.jpg",
+      "thumb_id": "products/w6xv12fxohoxhsh5cuzj",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650765231/products/w6xv12fxohoxhsh5cuzj.jpg",
+      "_id": {
+        "$oid": "6264adbb4f4edac2c860081f"
+      }
+    },
+    {
+      "public_id": "products/mjgwajjw2o8fzzseb64r",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650765241/products/mjgwajjw2o8fzzseb64r.jpg",
+      "thumb_id": "products/iat7567rxuqeq2gp0hj8",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650765238/products/iat7567rxuqeq2gp0hj8.jpg",
+      "_id": {
+        "$oid": "6264adbb4f4edac2c8600820"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Landscape",
+  "media": "Pencil Crayon",
+  "datePublished": {
+    "$date": "2022-04-24T00:00:00Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T01:54:03.109Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264aec64f4edac2c8600832"
+  },
+  "name": "Garlic Study",
+  "slug": "garlic-study",
+  "price": 75,
+  "width": 17,
+  "height": 17,
+  "depth": 0,
+  "description": "<p>Third in a series of food sill lifes.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/vouezv6prrp0hokry4wf",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650765501/products/vouezv6prrp0hokry4wf.jpg",
+      "thumb_id": "products/iq843fn8vponwhors8ya",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650765497/products/iq843fn8vponwhors8ya.jpg",
+      "_id": {
+        "$oid": "6264aec64f4edac2c8600833"
+      }
+    },
+    {
+      "public_id": "products/vdj5x0gbctmzdjsiqyjz",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650765509/products/vdj5x0gbctmzdjsiqyjz.jpg",
+      "thumb_id": "products/vskwvuusatfbkmtyqmnz",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650765505/products/vskwvuusatfbkmtyqmnz.jpg",
+      "_id": {
+        "$oid": "6264aec64f4edac2c8600834"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Square",
+  "media": "Pencil Crayon",
+  "datePublished": {
+    "$date": "2022-04-24T00:00:00Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T01:58:30.352Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264aff14f4edac2c8600891"
+  },
+  "name": "Fruit Bowl",
+  "slug": "fruit-bowl",
+  "price": 75,
+  "width": 35,
+  "height": 22,
+  "depth": 0,
+  "description": "<p>Final piece of four exploring fruit n' veg.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/istrzwqfhtqbc4vm8cmh",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650765808/products/istrzwqfhtqbc4vm8cmh.jpg",
+      "thumb_id": "products/plc5weedokqip2iwwezv",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650765805/products/plc5weedokqip2iwwezv.jpg",
+      "_id": {
+        "$oid": "6264aff14f4edac2c8600893"
+      }
+    },
+    {
+      "public_id": "products/fll78v2h4ozygqohwyok",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650765802/products/fll78v2h4ozygqohwyok.jpg",
+      "thumb_id": "products/aeql6tr1fmfk7g7r6cts",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650765797/products/aeql6tr1fmfk7g7r6cts.jpg",
+      "_id": {
+        "$oid": "6264aff14f4edac2c8600892"
+      }
+    },
+    {
+      "public_id": "products/b4mrr9dgk9dle8snvvgh",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650765847/products/b4mrr9dgk9dle8snvvgh.jpg",
+      "thumb_id": "products/pbahsgr2sm8qwwko0uot",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650765844/products/pbahsgr2sm8qwwko0uot.jpg",
+      "_id": {
+        "$oid": "6264b0174f4edac2c86008bb"
+      }
+    },
+    {
+      "public_id": "products/nwyn1o9kipntazz8m1zk",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650765852/products/nwyn1o9kipntazz8m1zk.jpg",
+      "thumb_id": "products/bmzfefgdeo62lneurhhl",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650765849/products/bmzfefgdeo62lneurhhl.jpg",
+      "_id": {
+        "$oid": "6264b01d4f4edac2c86008bc"
+      }
+    },
+    {
+      "public_id": "products/e38pq3vnt0izz50ncft0",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650765858/products/e38pq3vnt0izz50ncft0.jpg",
+      "thumb_id": "products/smmqutit7lin87m2evg6",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650765855/products/smmqutit7lin87m2evg6.jpg",
+      "_id": {
+        "$oid": "6264b0234f4edac2c86008bd"
+      }
+    },
+    {
+      "public_id": "products/q8alylferhdf8ozt2izw",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650765863/products/q8alylferhdf8ozt2izw.jpg",
+      "thumb_id": "products/ifocgyok3jew45z4tif2",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650765861/products/ifocgyok3jew45z4tif2.jpg",
+      "_id": {
+        "$oid": "6264b0284f4edac2c86008be"
+      }
+    },
+    {
+      "public_id": "products/dzgyyyi1hv573dwygods",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650765869/products/dzgyyyi1hv573dwygods.jpg",
+      "thumb_id": "products/pspbsdfoplqjbhbss9zd",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650765866/products/pspbsdfoplqjbhbss9zd.jpg",
+      "_id": {
+        "$oid": "6264b02e4f4edac2c86008bf"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Landscape",
+  "media": "Charcoal",
+  "datePublished": {
+    "$date": "2022-04-24T00:00:00Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T02:03:29.487Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264b1613836e88c82ddf13a"
+  },
+  "name": "HITS",
+  "slug": "hits",
+  "price": 50,
+  "width": 20,
+  "height": 25,
+  "depth": 0,
+  "description": "<p>A brief foray into lettering.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/zokbgjmmybu2nscoblzx",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766170/products/zokbgjmmybu2nscoblzx.jpg",
+      "thumb_id": "products/jzcyyzdpzwgpmpoyi0uw",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766168/products/jzcyyzdpzwgpmpoyi0uw.jpg",
+      "_id": {
+        "$oid": "6264b1613836e88c82ddf13b"
+      }
+    },
+    {
+      "public_id": "products/ueundys2ytbboe25zvz1",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766437/products/ueundys2ytbboe25zvz1.jpg",
+      "thumb_id": "products/scslhv15tos1nbhpmtzf",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766433/products/scslhv15tos1nbhpmtzf.jpg",
+      "_id": {
+        "$oid": "6264b2673836e88c82ddf160"
+      }
+    },
+    {
+      "public_id": "products/kqoxwajgjvb2xvkm4av0",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766176/products/kqoxwajgjvb2xvkm4av0.jpg",
+      "thumb_id": "products/juzzh2ty2hs5arfmrhlw",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766174/products/juzzh2ty2hs5arfmrhlw.jpg",
+      "_id": {
+        "$oid": "6264b1613836e88c82ddf13c"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Portrait",
+  "media": "Pencil",
+  "datePublished": {
+    "$date": "2022-04-24T00:00:00Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T02:09:37.514Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264b3193836e88c82ddf18e"
+  },
+  "name": "Life Drawing",
+  "slug": "life-drawing",
+  "price": 300,
+  "width": 35,
+  "height": 18,
+  "depth": 0,
+  "description": "<p>A series of life studies with the final being a detailed of copy of an original by Boris Vallejo.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/frfbh6x3xjjzjskiercx",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766586/products/frfbh6x3xjjzjskiercx.jpg",
+      "thumb_id": "products/kmaxbkbtmrl8fj7hjol3",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766584/products/kmaxbkbtmrl8fj7hjol3.jpg",
+      "_id": {
+        "$oid": "6264b3193836e88c82ddf18f"
+      }
+    },
+    {
+      "public_id": "products/hd3bvskdkjyvfjd1xz8q",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766594/products/hd3bvskdkjyvfjd1xz8q.jpg",
+      "thumb_id": "products/old8thjqruoxp8lytxya",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766590/products/old8thjqruoxp8lytxya.jpg",
+      "_id": {
+        "$oid": "6264b3193836e88c82ddf190"
+      }
+    },
+    {
+      "public_id": "products/okbrizcpgtft9tzvdzjp",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766605/products/okbrizcpgtft9tzvdzjp.jpg",
+      "thumb_id": "products/ygckuu8fyqvxlu56sobe",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766603/products/ygckuu8fyqvxlu56sobe.jpg",
+      "_id": {
+        "$oid": "6264b3193836e88c82ddf192"
+      }
+    },
+    {
+      "public_id": "products/sjholiuoo0fhnn0ivgox",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766610/products/sjholiuoo0fhnn0ivgox.jpg",
+      "thumb_id": "products/fkdqgwmpuz8zomqv29gk",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766608/products/fkdqgwmpuz8zomqv29gk.jpg",
+      "_id": {
+        "$oid": "6264b3193836e88c82ddf193"
+      }
+    },
+    {
+      "public_id": "products/khtjxjjwaedv8iemxm4q",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766616/products/khtjxjjwaedv8iemxm4q.jpg",
+      "thumb_id": "products/gbq4lwlu9lsfawcfcbt5",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766613/products/gbq4lwlu9lsfawcfcbt5.jpg",
+      "_id": {
+        "$oid": "6264b3193836e88c82ddf194"
+      }
+    },
+    {
+      "public_id": "products/plosx4cyhhi8vwydqzmh",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766600/products/plosx4cyhhi8vwydqzmh.jpg",
+      "thumb_id": "products/ffwwckotj3yw8hlwweig",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766598/products/ffwwckotj3yw8hlwweig.jpg",
+      "_id": {
+        "$oid": "6264b3193836e88c82ddf191"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Portrait",
+  "media": "Pencil",
+  "datePublished": {
+    "$date": "2022-04-24T02:14:21Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T02:16:57.148Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264b4433836e88c82ddf1d5"
+  },
+  "name": "Chunda",
+  "slug": "chunda",
+  "price": 60,
+  "width": 25,
+  "height": 35,
+  "depth": 0,
+  "description": "<p>A trip to the museum...</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/analalghndih2sdmgexc",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766902/products/analalghndih2sdmgexc.jpg",
+      "thumb_id": "products/r5ykdvuziln0lxuo2pz2",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766899/products/r5ykdvuziln0lxuo2pz2.jpg",
+      "_id": {
+        "$oid": "6264b4433836e88c82ddf1d8"
+      }
+    },
+    {
+      "public_id": "products/onomqwekk6cjo91uulzn",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766895/products/onomqwekk6cjo91uulzn.jpg",
+      "thumb_id": "products/bibaxhamfsgg4wy2zojo",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766891/products/bibaxhamfsgg4wy2zojo.jpg",
+      "_id": {
+        "$oid": "6264b4433836e88c82ddf1d7"
+      }
+    },
+    {
+      "public_id": "products/wzh6xxuyeroh6rqhyido",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766909/products/wzh6xxuyeroh6rqhyido.jpg",
+      "thumb_id": "products/tykl8gshzbprlfzsbumb",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766906/products/tykl8gshzbprlfzsbumb.jpg",
+      "_id": {
+        "$oid": "6264b4433836e88c82ddf1d9"
+      }
+    },
+    {
+      "public_id": "products/bqu09v6aoqvym76eyvn8",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766887/products/bqu09v6aoqvym76eyvn8.jpg",
+      "thumb_id": "products/fqxo0cvflvmbezd6ifzt",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766884/products/fqxo0cvflvmbezd6ifzt.jpg",
+      "_id": {
+        "$oid": "6264b4433836e88c82ddf1d6"
+      }
+    },
+    {
+      "public_id": "products/jdm5s1hq7rwl70ntffhr",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766915/products/jdm5s1hq7rwl70ntffhr.jpg",
+      "thumb_id": "products/jam9vzmzo54bbjr1rxay",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650766912/products/jam9vzmzo54bbjr1rxay.jpg",
+      "_id": {
+        "$oid": "6264b4433836e88c82ddf1da"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Portrait",
+  "media": "Pencil",
+  "datePublished": {
+    "$date": "2022-04-24T02:20:08Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T02:21:55.937Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264b6143836e88c82ddf243"
+  },
+  "name": "A Vanity Still Life",
+  "slug": "a-vanity-still-life",
+  "price": 600,
+  "width": 35,
+  "height": 28,
+  "depth": 0,
+  "description": "<p>A study of the original by Pieter Claesz (17th C).</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/jjx31xzfvho8xmfnfrur",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650767345/products/jjx31xzfvho8xmfnfrur.jpg",
+      "thumb_id": "products/nzjny7aytjpfzviqilb8",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650767342/products/nzjny7aytjpfzviqilb8.jpg",
+      "_id": {
+        "$oid": "6264b6143836e88c82ddf246"
+      }
+    },
+    {
+      "public_id": "products/kvcnqczqpvwwtjyrupr7",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650767331/products/kvcnqczqpvwwtjyrupr7.jpg",
+      "thumb_id": "products/gonm0x7cqjittuhuhvhb",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650767327/products/gonm0x7cqjittuhuhvhb.jpg",
+      "_id": {
+        "$oid": "6264b6143836e88c82ddf244"
+      }
+    },
+    {
+      "public_id": "products/kv79y4guvzsafgl8rbxi",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650767338/products/kv79y4guvzsafgl8rbxi.jpg",
+      "thumb_id": "products/wo2cedtl0oerlamm8m2a",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650767335/products/wo2cedtl0oerlamm8m2a.jpg",
+      "_id": {
+        "$oid": "6264b6143836e88c82ddf245"
+      }
+    },
+    {
+      "public_id": "products/sw0owhpukdrct7hnf9qo",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650767351/products/sw0owhpukdrct7hnf9qo.jpg",
+      "thumb_id": "products/v17ue7xmmkn03r0ih65l",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650767349/products/v17ue7xmmkn03r0ih65l.jpg",
+      "_id": {
+        "$oid": "6264b6143836e88c82ddf247"
+      }
+    },
+    {
+      "public_id": "products/pkqzwxuogg2x7wrgno4q",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650767357/products/pkqzwxuogg2x7wrgno4q.jpg",
+      "thumb_id": "products/aexppozpovfhv8y3mev9",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650767354/products/aexppozpovfhv8y3mev9.jpg",
+      "_id": {
+        "$oid": "6264b6143836e88c82ddf248"
+      }
+    },
+    {
+      "public_id": "products/i3qjupxiwh39rvzdqte1",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650767362/products/i3qjupxiwh39rvzdqte1.jpg",
+      "thumb_id": "products/kvfbsk185qf2vkoqldk7",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650767360/products/kvfbsk185qf2vkoqldk7.jpg",
+      "_id": {
+        "$oid": "6264b6143836e88c82ddf249"
+      }
+    },
+    {
+      "public_id": "products/lb6lzbuu4z3wd1gpobt0",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650767368/products/lb6lzbuu4z3wd1gpobt0.jpg",
+      "thumb_id": "products/yqc257sl5tvdieymur8h",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650767366/products/yqc257sl5tvdieymur8h.jpg",
+      "_id": {
+        "$oid": "6264b6143836e88c82ddf24a"
+      }
+    },
+    {
+      "public_id": "products/c9pyfreutlyxjfs99vyh",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650767374/products/c9pyfreutlyxjfs99vyh.jpg",
+      "thumb_id": "products/wseaibz6uhoqep1j6cbz",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650767371/products/wseaibz6uhoqep1j6cbz.jpg",
+      "_id": {
+        "$oid": "6264b6143836e88c82ddf24b"
+      }
+    },
+    {
+      "public_id": "products/ojrxqowb99fjixnbdoqc",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650767380/products/ojrxqowb99fjixnbdoqc.jpg",
+      "thumb_id": "products/a0vnymv27c61nyq2caut",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650767377/products/a0vnymv27c61nyq2caut.jpg",
+      "_id": {
+        "$oid": "6264b6143836e88c82ddf24c"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Landscape",
+  "media": "Compressed Charcoal",
+  "datePublished": {
+    "$date": "2022-04-24T00:00:00Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T02:29:40.786Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264b72e3836e88c82ddf2a9"
+  },
+  "name": "Playing Cards",
+  "slug": "playing-cards",
+  "price": 75,
+  "width": 25,
+  "height": 20,
+  "depth": 0,
+  "description": "<p>Exploring texture through a well worn pack of cards.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/tm0u7weuioapczy39yxj",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650767661/products/tm0u7weuioapczy39yxj.jpg",
+      "thumb_id": "products/lyat8w7gpyfn9rxthzzg",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650767658/products/lyat8w7gpyfn9rxthzzg.jpg",
+      "_id": {
+        "$oid": "6264b72e3836e88c82ddf2aa"
+      }
+    },
+    {
+      "public_id": "products/t1werwisheubv3lusboi",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768163/products/t1werwisheubv3lusboi.jpg",
+      "thumb_id": "products/odss6d0rqmowvj9xlj7y",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768159/products/odss6d0rqmowvj9xlj7y.jpg",
+      "_id": {
+        "$oid": "6264b9243836e88c82ddf2c3"
+      }
+    },
+    {
+      "public_id": "products/hzupyrspbcfwapvekf2w",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768155/products/hzupyrspbcfwapvekf2w.jpg",
+      "thumb_id": "products/l8r5wxeh3mr06rfc7zxb",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768152/products/l8r5wxeh3mr06rfc7zxb.jpg",
+      "_id": {
+        "$oid": "6264b91c3836e88c82ddf2c2"
+      }
+    },
+    {
+      "public_id": "products/ae8rnfoijmteclndgvjm",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768168/products/ae8rnfoijmteclndgvjm.jpg",
+      "thumb_id": "products/jr7yq0n5zll5q3tdkydb",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768166/products/jr7yq0n5zll5q3tdkydb.jpg",
+      "_id": {
+        "$oid": "6264b9293836e88c82ddf2c4"
+      }
+    },
+    {
+      "public_id": "products/kw35qvbnfllrnwkwvfw6",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768176/products/kw35qvbnfllrnwkwvfw6.jpg",
+      "thumb_id": "products/xupapysuuerygzkvjpzb",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768172/products/xupapysuuerygzkvjpzb.jpg",
+      "_id": {
+        "$oid": "6264b9313836e88c82ddf2c5"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Landscape",
+  "media": "Pencil Crayon",
+  "datePublished": {
+    "$date": "2022-04-24T00:00:00Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T02:34:22.249Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264baf23836e88c82ddf2f7"
+  },
+  "name": "Jug & Pepper",
+  "slug": "jug--pepper",
+  "price": 3000,
+  "width": 35,
+  "height": 25,
+  "depth": 0,
+  "description": "<p>The culmination of my A-Level Art still life project. It took over a year to complete.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/dq0oxznutpqkvpyvo17b",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768569/products/dq0oxznutpqkvpyvo17b.jpg",
+      "thumb_id": "products/ur2t96tdj3sglcou2zkd",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768566/products/ur2t96tdj3sglcou2zkd.jpg",
+      "_id": {
+        "$oid": "6264baf23836e88c82ddf2f8"
+      }
+    },
+    {
+      "public_id": "products/wnkynowzoynvyziljr1u",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768596/products/wnkynowzoynvyziljr1u.jpg",
+      "thumb_id": "products/znletq5i9ouhckpvfvh9",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768592/products/znletq5i9ouhckpvfvh9.jpg",
+      "_id": {
+        "$oid": "6264baf23836e88c82ddf2fc"
+      }
+    },
+    {
+      "public_id": "products/wwqvvo2r9crdfl6mw8f3",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768975/products/wwqvvo2r9crdfl6mw8f3.jpg",
+      "thumb_id": "products/hepvs5wlz1gumbylcdyr",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768971/products/hepvs5wlz1gumbylcdyr.jpg",
+      "_id": {
+        "$oid": "6264bc503836e88c82ddf3a3"
+      }
+    },
+    {
+      "public_id": "products/ewgftfxogqld1bpsw6zw",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768575/products/ewgftfxogqld1bpsw6zw.jpg",
+      "thumb_id": "products/i0pbthvofpv4q2dom90x",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768572/products/i0pbthvofpv4q2dom90x.jpg",
+      "_id": {
+        "$oid": "6264baf23836e88c82ddf2f9"
+      }
+    },
+    {
+      "public_id": "products/vqitp3wdknwzuerxizhh",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768585/products/vqitp3wdknwzuerxizhh.jpg",
+      "thumb_id": "products/zlabx77lh6mtawljmwfm",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768583/products/zlabx77lh6mtawljmwfm.jpg",
+      "_id": {
+        "$oid": "6264baf23836e88c82ddf2fb"
+      }
+    },
+    {
+      "public_id": "products/wsgqumslsx7us0yynuj0",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768580/products/wsgqumslsx7us0yynuj0.jpg",
+      "thumb_id": "products/akyghgb56edxqqixcvof",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768578/products/akyghgb56edxqqixcvof.jpg",
+      "_id": {
+        "$oid": "6264baf23836e88c82ddf2fa"
+      }
+    },
+    {
+      "public_id": "products/qbze7ky1dwdxg7ipm9bi",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768608/products/qbze7ky1dwdxg7ipm9bi.jpg",
+      "thumb_id": "products/u7pb0wjqzogiywsujdbb",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768605/products/u7pb0wjqzogiywsujdbb.jpg",
+      "_id": {
+        "$oid": "6264baf23836e88c82ddf2fe"
+      }
+    },
+    {
+      "public_id": "products/uyxh46p2yqg9yktlgdz6",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768614/products/uyxh46p2yqg9yktlgdz6.jpg",
+      "thumb_id": "products/nznr0psmw4wu7jleilix",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768611/products/nznr0psmw4wu7jleilix.jpg",
+      "_id": {
+        "$oid": "6264baf23836e88c82ddf2ff"
+      }
+    },
+    {
+      "public_id": "products/oecdazy2yukflpct4cnv",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768619/products/oecdazy2yukflpct4cnv.jpg",
+      "thumb_id": "products/m7t60saup58eughapibm",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768616/products/m7t60saup58eughapibm.jpg",
+      "_id": {
+        "$oid": "6264baf23836e88c82ddf300"
+      }
+    },
+    {
+      "public_id": "products/ukk06sxi8wva6zphcpds",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768602/products/ukk06sxi8wva6zphcpds.jpg",
+      "thumb_id": "products/vyq8ubsrt5txr6xrqzps",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768599/products/vyq8ubsrt5txr6xrqzps.jpg",
+      "_id": {
+        "$oid": "6264baf23836e88c82ddf2fd"
+      }
+    },
+    {
+      "public_id": "products/tthvxu5twnz7l9lk6hel",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768625/products/tthvxu5twnz7l9lk6hel.jpg",
+      "thumb_id": "products/wv2gtugjrme4ntug57sj",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768622/products/wv2gtugjrme4ntug57sj.jpg",
+      "_id": {
+        "$oid": "6264baf23836e88c82ddf301"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Portrait",
+  "media": "Oil on Canvas",
+  "datePublished": {
+    "$date": "2022-04-24T00:00:00Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T02:50:26.699Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264bbfa3836e88c82ddf366"
+  },
+  "name": "High & Low",
+  "slug": "high--low",
+  "price": 2000,
+  "width": 35,
+  "height": 18,
+  "depth": 0,
+  "description": "<p>An almost perfect copy of the original by M.C. Escher.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/xvlmsdxexg9vnlzzqfex",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768882/products/xvlmsdxexg9vnlzzqfex.jpg",
+      "thumb_id": "products/fuv7eoppqjqod7gpd6ek",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768879/products/fuv7eoppqjqod7gpd6ek.jpg",
+      "_id": {
+        "$oid": "6264bbfa3836e88c82ddf368"
+      }
+    },
+    {
+      "public_id": "products/qun41058j58fsiq5lo1i",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768889/products/qun41058j58fsiq5lo1i.jpg",
+      "thumb_id": "products/upilh5anbljin9yghih7",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768885/products/upilh5anbljin9yghih7.jpg",
+      "_id": {
+        "$oid": "6264bbfa3836e88c82ddf369"
+      }
+    },
+    {
+      "public_id": "products/xd2q2okwuipda0egs7bz",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768876/products/xd2q2okwuipda0egs7bz.jpg",
+      "thumb_id": "products/wpvdcvqkgv61r4i9xjuq",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650768873/products/wpvdcvqkgv61r4i9xjuq.jpg",
+      "_id": {
+        "$oid": "6264bbfa3836e88c82ddf367"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Portrait",
+  "media": "Pencil",
+  "datePublished": {
+    "$date": "2022-04-24T02:53:14Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T02:54:50.170Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264bce03836e88c82ddf3db"
+  },
+  "name": "Hand with Reflecting Globe",
+  "slug": "hand-with-reflecting-globe",
+  "price": 1400,
+  "width": 35,
+  "height": 25,
+  "depth": 0,
+  "description": "<p>My first introduction to M.C. Escher quite literally blew my mind. I had to have it!</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/j4n0ti3r10lptf7gtdqi",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650769110/products/j4n0ti3r10lptf7gtdqi.jpg",
+      "thumb_id": "products/sdqknletqsefriv9bmds",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650769107/products/sdqknletqsefriv9bmds.jpg",
+      "_id": {
+        "$oid": "6264bce03836e88c82ddf3dc"
+      }
+    },
+    {
+      "public_id": "products/iu0sytgxkp89r6xxqnop",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650769119/products/iu0sytgxkp89r6xxqnop.jpg",
+      "thumb_id": "products/qrot1ibuefkbijgqzb0e",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650769115/products/qrot1ibuefkbijgqzb0e.jpg",
+      "_id": {
+        "$oid": "6264bce03836e88c82ddf3dd"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Portrait",
+  "media": "Pencil",
+  "datePublished": {
+    "$date": "2022-04-24T02:56:43Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T02:58:40.612Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264bdf53836e88c82ddf3ef"
+  },
+  "name": "Three Spheres",
+  "slug": "three-spheres",
+  "price": 800,
+  "width": 37,
+  "height": 21,
+  "depth": 0,
+  "description": "<p>Exploring differing reflective properties of 3 spheres. One solid, one liguid filled and one air filled.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/sidni9krd4sdcalso4ay",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650769386/products/sidni9krd4sdcalso4ay.jpg",
+      "thumb_id": "products/chdl3ao1w4kcwr04qhir",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650769383/products/chdl3ao1w4kcwr04qhir.jpg",
+      "_id": {
+        "$oid": "6264bdf53836e88c82ddf3f0"
+      }
+    },
+    {
+      "public_id": "products/bhxjxv0n2f9guaqlf9pc",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650769396/products/bhxjxv0n2f9guaqlf9pc.jpg",
+      "thumb_id": "products/hyp80oopfv3yp40chf6g",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650769391/products/hyp80oopfv3yp40chf6g.jpg",
+      "_id": {
+        "$oid": "6264bdf53836e88c82ddf3f1"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Landscape",
+  "media": "Pencil",
+  "datePublished": {
+    "$date": "2022-04-24T03:01:26Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T03:03:17.611Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264bedd3836e88c82ddf403"
+  },
+  "name": "Birdman",
+  "slug": "birdman",
+  "price": 350,
+  "width": 25,
+  "height": 35,
+  "depth": 0,
+  "description": "<p>Working from black to white using white crayon.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/gzybhgye5x4rwuvibx2q",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650769621/products/gzybhgye5x4rwuvibx2q.jpg",
+      "thumb_id": "products/tlqpmnghwjj2ypobqbqi",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650769618/products/tlqpmnghwjj2ypobqbqi.jpg",
+      "_id": {
+        "$oid": "6264bedd3836e88c82ddf404"
+      }
+    },
+    {
+      "public_id": "products/x9awy2it4xap15vllpqe",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650769628/products/x9awy2it4xap15vllpqe.jpg",
+      "thumb_id": "products/ipdy605gk3xwxvywlnvq",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650769625/products/ipdy605gk3xwxvywlnvq.jpg",
+      "_id": {
+        "$oid": "6264bedd3836e88c82ddf405"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Portrait",
+  "media": "Pencil Crayon",
+  "datePublished": {
+    "$date": "2022-04-24T03:05:48Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T03:07:09.452Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264bfeb3836e88c82ddf417"
+  },
+  "name": "Ripples",
+  "slug": "ripples",
+  "price": 200,
+  "width": 24,
+  "height": 19,
+  "depth": 0,
+  "description": "<p>Proof that beauty in nature is everywhere.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/j6qcnhfzqeclmjmnrdyu",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650769889/products/j6qcnhfzqeclmjmnrdyu.jpg",
+      "thumb_id": "products/kgkinorrqdjgx2cx7cfg",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650769887/products/kgkinorrqdjgx2cx7cfg.jpg",
+      "_id": {
+        "$oid": "6264bfeb3836e88c82ddf418"
+      }
+    },
+    {
+      "public_id": "products/amw1gcsmpwe2qkz8bzlm",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650769898/products/amw1gcsmpwe2qkz8bzlm.jpg",
+      "thumb_id": "products/fujd2vzyc89ayg2ybesw",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650769894/products/fujd2vzyc89ayg2ybesw.jpg",
+      "_id": {
+        "$oid": "6264bfeb3836e88c82ddf419"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Landscape",
+  "media": "Ink",
+  "datePublished": {
+    "$date": "2022-04-24T03:10:02Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T03:11:39.440Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264c1403836e88c82ddf42b"
+  },
+  "name": "Day & Night",
+  "slug": "day--night",
+  "price": 75,
+  "width": 17,
+  "height": 17,
+  "depth": 0,
+  "description": "<p>Ambiguous illusion of both sun and moon. Both however are not simultaneously visible.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/gcgxdvyxozrtabckr8yi",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650770231/products/gcgxdvyxozrtabckr8yi.jpg",
+      "thumb_id": "products/ncyix7bxdbvc4i7lzyf3",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650770228/products/ncyix7bxdbvc4i7lzyf3.jpg",
+      "_id": {
+        "$oid": "6264c1403836e88c82ddf42c"
+      }
+    },
+    {
+      "public_id": "products/rsgcjohp47mnzvc9x7ob",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650770239/products/rsgcjohp47mnzvc9x7ob.jpg",
+      "thumb_id": "products/lxapb2doyltmakzggvn4",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650770235/products/lxapb2doyltmakzggvn4.jpg",
+      "_id": {
+        "$oid": "6264c1403836e88c82ddf42d"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Square",
+  "media": "Pencil",
+  "datePublished": {
+    "$date": "2022-04-24T03:14:37Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T03:17:20.863Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264c2393836e88c82ddf43f"
+  },
+  "name": "Rivendell",
+  "slug": "rivendell",
+  "price": 350,
+  "width": 25,
+  "height": 35,
+  "depth": 0,
+  "description": "<p>A tribute to Alan Lee's illustrations in The Lord of the Rings.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/f16swfubbiito3h5pwd6",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650770482/products/f16swfubbiito3h5pwd6.jpg",
+      "thumb_id": "products/e8z2bxqngacrqiwh8be5",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650770479/products/e8z2bxqngacrqiwh8be5.jpg",
+      "_id": {
+        "$oid": "6264c2393836e88c82ddf440"
+      }
+    },
+    {
+      "public_id": "products/rbzkiatn2o7ye2ij339n",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650770488/products/rbzkiatn2o7ye2ij339n.jpg",
+      "thumb_id": "products/le20htvvglkcgvurgdey",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650770485/products/le20htvvglkcgvurgdey.jpg",
+      "_id": {
+        "$oid": "6264c2393836e88c82ddf441"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Portrait",
+  "media": "Watercolour",
+  "datePublished": {
+    "$date": "2022-04-24T03:20:01Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T03:21:29.910Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264c4af3836e88c82ddf453"
+  },
+  "name": "Hobbiton",
+  "slug": "hobbiton",
+  "price": 350,
+  "width": 25,
+  "height": 35,
+  "depth": 0,
+  "description": "<p>The beginning of Frodo's journey.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/jdmihzehrchouwvky1ay",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650771111/products/jdmihzehrchouwvky1ay.jpg",
+      "thumb_id": "products/n2cez25idmx1hdoijdal",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650771108/products/n2cez25idmx1hdoijdal.jpg",
+      "_id": {
+        "$oid": "6264c4af3836e88c82ddf454"
+      }
+    },
+    {
+      "public_id": "products/dk7qzzbrcz4niposz0ex",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650771118/products/dk7qzzbrcz4niposz0ex.jpg",
+      "thumb_id": "products/fd82gzt68ovhiv1efxz5",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650771115/products/fd82gzt68ovhiv1efxz5.jpg",
+      "_id": {
+        "$oid": "6264c4af3836e88c82ddf455"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Portrait",
+  "media": "Watercolour",
+  "datePublished": {
+    "$date": "2022-04-24T03:30:40Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T03:31:59.126Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264c59c3836e88c82ddf467"
+  },
+  "name": "Mines of Moria",
+  "slug": "mines-of-moria",
+  "price": 350,
+  "width": 25,
+  "height": 35,
+  "depth": 0,
+  "description": "<p>The company arrives at Moria.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/da2lbxfrdki0xr5lno1q",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650771336/products/da2lbxfrdki0xr5lno1q.jpg",
+      "thumb_id": "products/n9p9nhqm5sjdhg8amf76",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650771333/products/n9p9nhqm5sjdhg8amf76.jpg",
+      "_id": {
+        "$oid": "6264c59c3836e88c82ddf468"
+      }
+    },
+    {
+      "public_id": "products/qv7ytadqxnzgcjygjcu1",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650771355/products/qv7ytadqxnzgcjygjcu1.jpg",
+      "thumb_id": "products/rfhlv3nmni7mfk7r39ul",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650771351/products/rfhlv3nmni7mfk7r39ul.jpg",
+      "_id": {
+        "$oid": "6264c59c3836e88c82ddf469"
+      }
+    }
+  ],
+  "artist": "Nicholas G. Dittmer",
+  "orientation": "Portrait",
+  "media": "Watercolour",
+  "datePublished": {
+    "$date": "2022-04-24T03:34:24Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-24T03:35:56.358Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6266531480869f955f32b6ff"
+  },
+  "name": "Roar",
+  "slug": "roar",
+  "price": 250,
+  "width": 30,
+  "height": 21,
+  "depth": 0,
+  "description": "<p>Roar</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/eckttftqfnkcvlhf9xqm",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650873100/products/eckttftqfnkcvlhf9xqm.jpg",
+      "thumb_id": "products/rywyc5llhtajlq7riax6",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650873098/products/rywyc5llhtajlq7riax6.jpg",
+      "_id": {
+        "$oid": "6266531480869f955f32b700"
+      }
+    },
+    {
+      "public_id": "products/f3nd5gl6fhqjdhkufarb",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650873108/products/f3nd5gl6fhqjdhkufarb.jpg",
+      "thumb_id": "products/orqblyxyraoqlf7bvceq",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650873104/products/orqblyxyraoqlf7bvceq.jpg",
+      "_id": {
+        "$oid": "6266531480869f955f32b701"
+      }
+    }
+  ],
+  "artist": "Mickey Lynch",
+  "orientation": "Landscape",
+  "media": "Pencil Crayon",
+  "datePublished": {
+    "$date": "2022-04-25T07:50:22.312Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-25T07:51:48.403Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6266575980869f955f32b713"
+  },
+  "name": "X-Ray",
+  "slug": "x-ray",
+  "price": 250,
+  "width": 21,
+  "height": 30,
+  "depth": 0,
+  "description": "<p>X-Ray.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/ooj217smdu65tdltmkqt",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874193/products/ooj217smdu65tdltmkqt.jpg",
+      "thumb_id": "products/tk5e9rxq50qnwjwf3j0i",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874191/products/tk5e9rxq50qnwjwf3j0i.jpg",
+      "_id": {
+        "$oid": "6266575980869f955f32b714"
+      }
+    },
+    {
+      "public_id": "products/vpzoxf3lwrddivspq39j",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874259/products/vpzoxf3lwrddivspq39j.jpg",
+      "thumb_id": "products/tzrb8auvwaotvevniwjh",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874255/products/tzrb8auvwaotvevniwjh.jpg",
+      "_id": {
+        "$oid": "6266579280869f955f32b743"
+      }
+    }
+  ],
+  "artist": "Mickey Lynch",
+  "orientation": "Portrait",
+  "media": "Pencil",
+  "datePublished": {
+    "$date": "2022-04-25T00:00:00Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-25T08:10:01.623Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626657f180869f955f32b759"
+  },
+  "name": "Father & Son",
+  "slug": "father--son",
+  "price": 250,
+  "width": 21,
+  "height": 27,
+  "depth": 0,
+  "description": "<p>Father &amp; Son.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/bibmxkwsud2spfid996m",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874345/products/bibmxkwsud2spfid996m.jpg",
+      "thumb_id": "products/epgzwtlil87zfsantcxb",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874342/products/epgzwtlil87zfsantcxb.jpg",
+      "_id": {
+        "$oid": "626657f180869f955f32b75a"
+      }
+    },
+    {
+      "public_id": "products/ftxvqph6aetbzgbwin4d",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874354/products/ftxvqph6aetbzgbwin4d.jpg",
+      "thumb_id": "products/kyvt484lojmh4n6feypr",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874349/products/kyvt484lojmh4n6feypr.jpg",
+      "_id": {
+        "$oid": "626657f180869f955f32b75b"
+      }
+    }
+  ],
+  "artist": "Mickey Lynch",
+  "orientation": "Portrait",
+  "media": "Pencil",
+  "datePublished": {
+    "$date": "2022-04-25T08:11:06.074Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-25T08:12:33.832Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6266586780869f955f32b774"
+  },
+  "name": "Mathilda",
+  "slug": "mathilda",
+  "price": 250,
+  "width": 21,
+  "height": 30,
+  "depth": 0,
+  "description": "<p>Mathilda.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/avluhlrs3luieofckr93",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874462/products/avluhlrs3luieofckr93.jpg",
+      "thumb_id": "products/htccjsx4gxacdqangpgc",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874460/products/htccjsx4gxacdqangpgc.jpg",
+      "_id": {
+        "$oid": "6266586780869f955f32b775"
+      }
+    },
+    {
+      "public_id": "products/fowehgfxapgrbwwvy71n",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874471/products/fowehgfxapgrbwwvy71n.jpg",
+      "thumb_id": "products/w7qoippesrg3wcfsevrb",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874467/products/w7qoippesrg3wcfsevrb.jpg",
+      "_id": {
+        "$oid": "6266586780869f955f32b776"
+      }
+    }
+  ],
+  "artist": "Mickey Lynch",
+  "orientation": "Portrait",
+  "media": "Pencil",
+  "datePublished": {
+    "$date": "2022-04-25T08:13:17.421Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-25T08:14:31.315Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626658ab80869f955f32b788"
+  },
+  "name": "Joker",
+  "slug": "joker",
+  "price": 250,
+  "width": 21,
+  "height": 27,
+  "depth": 0,
+  "description": "<p>Joker.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/xnnwerqy2unabkadiqxa",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874527/products/xnnwerqy2unabkadiqxa.jpg",
+      "thumb_id": "products/eaeno9jro08r1q1nb7f0",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874524/products/eaeno9jro08r1q1nb7f0.jpg",
+      "_id": {
+        "$oid": "626658ab80869f955f32b789"
+      }
+    },
+    {
+      "public_id": "products/rihqofwtslj2fvjn8ayi",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874539/products/rihqofwtslj2fvjn8ayi.jpg",
+      "thumb_id": "products/xnofufrybgvj0b95gmow",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874533/products/xnofufrybgvj0b95gmow.jpg",
+      "_id": {
+        "$oid": "626658ab80869f955f32b78a"
+      }
+    }
+  ],
+  "artist": "Mickey Lynch",
+  "orientation": "Portrait",
+  "media": "Pencil",
+  "datePublished": {
+    "$date": "2022-04-25T08:14:41.208Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-25T08:15:39.096Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626658fd80869f955f32b79c"
+  },
+  "name": "Femme Fatale",
+  "slug": "femme-fatale",
+  "price": 250,
+  "width": 30,
+  "height": 25,
+  "depth": 0,
+  "description": "<p>Femme Fatale.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/dw5apzavua3yzycf1ph4",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874611/products/dw5apzavua3yzycf1ph4.jpg",
+      "thumb_id": "products/smc06oygxl4v22dlfbvi",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874607/products/smc06oygxl4v22dlfbvi.jpg",
+      "_id": {
+        "$oid": "626658fd80869f955f32b79d"
+      }
+    },
+    {
+      "public_id": "products/cbctg3ejqhzzefii12qy",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874621/products/cbctg3ejqhzzefii12qy.jpg",
+      "thumb_id": "products/vpg4ar1rziuj0ksqfizg",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874616/products/vpg4ar1rziuj0ksqfizg.jpg",
+      "_id": {
+        "$oid": "626658fd80869f955f32b79e"
+      }
+    }
+  ],
+  "artist": "Mickey Lynch",
+  "orientation": "Landscape",
+  "media": "Mixed Media",
+  "datePublished": {
+    "$date": "2022-04-25T08:15:44.925Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-25T08:17:01.512Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6266593c80869f955f32b7b0"
+  },
+  "name": "Mort",
+  "slug": "mort",
+  "price": 250,
+  "width": 21,
+  "height": 30,
+  "depth": 0,
+  "description": "<p>Mort.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/jaebbouo1umgdhwhsmb9",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874675/products/jaebbouo1umgdhwhsmb9.jpg",
+      "thumb_id": "products/waps9syujwyfvrhgpres",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874673/products/waps9syujwyfvrhgpres.jpg",
+      "_id": {
+        "$oid": "6266593c80869f955f32b7b1"
+      }
+    },
+    {
+      "public_id": "products/gnwycyknl7viv0tpcldz",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874684/products/gnwycyknl7viv0tpcldz.jpg",
+      "thumb_id": "products/bhwcyeqticu6e7aalidx",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874680/products/bhwcyeqticu6e7aalidx.jpg",
+      "_id": {
+        "$oid": "6266593c80869f955f32b7b2"
+      }
+    }
+  ],
+  "artist": "Mickey Lynch",
+  "orientation": "Portrait",
+  "media": "Pencil",
+  "datePublished": {
+    "$date": "2022-04-25T08:17:06.404Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-25T08:18:04.475Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6266598a80869f955f32b7c4"
+  },
+  "name": "Death",
+  "slug": "death",
+  "price": 250,
+  "width": 21,
+  "height": 27,
+  "depth": 0,
+  "description": "<p>Death.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/zxtg6mvenbhattpue0sa",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874754/products/zxtg6mvenbhattpue0sa.jpg",
+      "thumb_id": "products/xhl0fhicirudaffjiey2",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874751/products/xhl0fhicirudaffjiey2.jpg",
+      "_id": {
+        "$oid": "6266598a80869f955f32b7c5"
+      }
+    },
+    {
+      "public_id": "products/dugwfkftiq180t0kxsbb",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874763/products/dugwfkftiq180t0kxsbb.jpg",
+      "thumb_id": "products/xth61teocwpdqewddrel",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874758/products/xth61teocwpdqewddrel.jpg",
+      "_id": {
+        "$oid": "6266598a80869f955f32b7c6"
+      }
+    }
+  ],
+  "artist": "Mickey Lynch",
+  "orientation": "Portrait",
+  "media": "Pencil Crayon",
+  "datePublished": {
+    "$date": "2022-04-25T08:18:09.164Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-25T08:19:22.394Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626659c080869f955f32b7d8"
+  },
+  "name": "Vanity",
+  "slug": "vanity",
+  "price": 250,
+  "width": 21,
+  "height": 27,
+  "depth": 0,
+  "description": "<p>Vanity</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/lurbynkjz15fcqhgxg7k",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874808/products/lurbynkjz15fcqhgxg7k.jpg",
+      "thumb_id": "products/uoto23pvno73pynvsf6w",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874805/products/uoto23pvno73pynvsf6w.jpg",
+      "_id": {
+        "$oid": "626659c080869f955f32b7d9"
+      }
+    },
+    {
+      "public_id": "products/ptiqx7queubdiitfbh7c",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874817/products/ptiqx7queubdiitfbh7c.jpg",
+      "thumb_id": "products/a2bi69qcrwgewkhk7ug1",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874812/products/a2bi69qcrwgewkhk7ug1.jpg",
+      "_id": {
+        "$oid": "626659c080869f955f32b7da"
+      }
+    }
+  ],
+  "artist": "Mickey Lynch",
+  "orientation": "Portrait",
+  "media": "Pencil",
+  "datePublished": {
+    "$date": "2022-04-25T08:19:26.743Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-25T08:20:16.857Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62665a0c80869f955f32b7ec"
+  },
+  "name": "Terminator",
+  "slug": "terminator",
+  "price": 250,
+  "width": 30,
+  "height": 21,
+  "depth": 0,
+  "description": "<p>Terminator.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/rno5bywmdu0xmopdvxho",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874884/products/rno5bywmdu0xmopdvxho.jpg",
+      "thumb_id": "products/ejoknh4w4lrudh1eeaoj",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874881/products/ejoknh4w4lrudh1eeaoj.jpg",
+      "_id": {
+        "$oid": "62665a0c80869f955f32b7ed"
+      }
+    },
+    {
+      "public_id": "products/j9ymmxboquecojun1x8k",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874893/products/j9ymmxboquecojun1x8k.jpg",
+      "thumb_id": "products/bz1tgucl6gapkuwjtp1s",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874888/products/bz1tgucl6gapkuwjtp1s.jpg",
+      "_id": {
+        "$oid": "62665a0c80869f955f32b7ee"
+      }
+    }
+  ],
+  "artist": "Mickey Lynch",
+  "orientation": "Landscape",
+  "media": "Pencil",
+  "datePublished": {
+    "$date": "2022-04-25T08:20:24.441Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-25T08:21:32.848Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62665a4b80869f955f32b800"
+  },
+  "name": "Time",
+  "slug": "time",
+  "price": 250,
+  "width": 21,
+  "height": 30,
+  "depth": 0,
+  "description": "<p>Time.</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/zy7pwrystnthnbvia8yk",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874947/products/zy7pwrystnthnbvia8yk.jpg",
+      "thumb_id": "products/nzomj69vao68dkx26701",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874945/products/nzomj69vao68dkx26701.jpg",
+      "_id": {
+        "$oid": "62665a4b80869f955f32b801"
+      }
+    },
+    {
+      "public_id": "products/mppi25e1csbj51v579d0",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874955/products/mppi25e1csbj51v579d0.jpg",
+      "thumb_id": "products/a5c02hgipp834zvo4pth",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650874951/products/a5c02hgipp834zvo4pth.jpg",
+      "_id": {
+        "$oid": "62665a4b80869f955f32b802"
+      }
+    }
+  ],
+  "artist": "Mickey Lynch",
+  "orientation": "Portrait",
+  "media": "Pencil",
+  "datePublished": {
+    "$date": "2022-04-25T08:21:37.893Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-25T08:22:35.134Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62665aab80869f955f32b814"
+  },
+  "name": "First World Problems",
+  "slug": "first-world-problems",
+  "price": 250,
+  "width": 25,
+  "height": 25,
+  "depth": 0,
+  "description": "<p>First World Problems</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/jryk6nozjgmbllqhudpo",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650875041/products/jryk6nozjgmbllqhudpo.jpg",
+      "thumb_id": "products/uzzj2bsbygvdtjuqsygh",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650875038/products/uzzj2bsbygvdtjuqsygh.jpg",
+      "_id": {
+        "$oid": "62665aab80869f955f32b815"
+      }
+    },
+    {
+      "public_id": "products/amybyvwefrnq6zbhajmk",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650875051/products/amybyvwefrnq6zbhajmk.jpg",
+      "thumb_id": "products/jfxoljerwkcxm1sf91ox",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650875046/products/jfxoljerwkcxm1sf91ox.jpg",
+      "_id": {
+        "$oid": "62665aab80869f955f32b816"
+      }
+    }
+  ],
+  "artist": "Mickey Lynch",
+  "orientation": "Square",
+  "media": "Pencil",
+  "datePublished": {
+    "$date": "2022-04-25T08:23:02.885Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-25T08:24:11.292Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62665aec80869f955f32b828"
+  },
+  "name": "Buddha",
+  "slug": "buddha",
+  "price": 250,
+  "width": 30,
+  "height": 21,
+  "depth": 0,
+  "description": "<p>Buddha</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/ukeok53pn5mxboixjne3",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650875108/products/ukeok53pn5mxboixjne3.jpg",
+      "thumb_id": "products/bvpj6iwrigboiokg3rhl",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650875105/products/bvpj6iwrigboiokg3rhl.jpg",
+      "_id": {
+        "$oid": "62665aec80869f955f32b829"
+      }
+    },
+    {
+      "public_id": "products/b0ncuzazghvbbx7iv7hb",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1650875116/products/b0ncuzazghvbbx7iv7hb.jpg",
+      "thumb_id": "products/wyt5vbqbyeofowd1m9nq",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1650875112/products/wyt5vbqbyeofowd1m9nq.jpg",
+      "_id": {
+        "$oid": "62665aec80869f955f32b82a"
+      }
+    }
+  ],
+  "artist": "Mickey Lynch",
+  "orientation": "Landscape",
+  "media": "Pencil Crayon",
+  "datePublished": {
+    "$date": "2022-04-25T08:24:16.818Z"
+  },
+  "stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-25T08:25:16.508Z"
+  },
+  "__v": 0
+}]

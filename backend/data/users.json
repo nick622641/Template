@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "name": "Nick Dittmer",
+  "email": "info@fishslates.com",
+  "password": "$2a$10$0esPtMYdGfI6Cg22Qr9hQOo//mrbx59/LrsLeN9xoAEdNx./oG.te",
+  "avatar": {
+    "public_id": "avatars/gccxbl5yi157sfrqtqcv",
+    "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1641222575/avatars/gccxbl5yi157sfrqtqcv.jpg"
+  },
+  "role": "admin",
+  "createdAt": {
+    "$date": "2021-12-13T21:28:01.344Z"
+  },
+  "__v": 0,
+  "resetPasswordExpire": {
+    "$date": "2022-04-25T09:59:14.046Z"
+  },
+  "resetPasswordToken": "851b863134711b9f195adf1119073763a46a192b6406a84b24d50f89aed26c1c"
+}]

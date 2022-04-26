@@ -1,0 +1,216 @@
+/* Sitewide Variables */
+:root {
+  --primary-color: #88744a;
+  --secondary-color: #555;
+  --cta-green: #13ae4b;
+  --speed: 500ms;  
+  --box-shadow: 0 0 32px rgba(0,0,0,0.5);
+}
+/* CSS Reset */
+* {    
+  font-family: 'Roboto', sans-serif;  
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+  background: none;
+  border-radius: 0;
+  outline: none;
+  vertical-align: baseline;  
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: 0.05em;
+}
+/* Set core body defaults */
+body {
+  scroll-behavior: smooth;
+  text-rendering: optimizeSpeed;
+  overflow-x: hidden;   
+  background: white;
+}
+/* Sticky Footer */
+#root {
+  display: flex; 
+  flex-direction: column;    
+  min-height: 100vh;
+}
+main {
+  flex-grow: 1;  
+  min-height: 80vh;
+}
+footer {
+  flex-shrink: 0;
+}
+/* Inline Element Styles */
+small {
+  font-size: 12px;
+}
+code {
+  font-family: 'Courier New', Courier, monospace;
+}
+figcaption {
+  font-size: 12px;
+}
+button[disabled] {
+  pointer-events: none;
+}
+/* List Styles */
+ul {
+  list-style: none;
+}
+ul.list-style { 
+  list-style-position: inside;
+  list-style-type: disc;     
+}
+li::marker {
+  color: #999;
+  font-size: 1.2em;
+}
+/* Anchor Tag Styles */
+a {
+  font-size: 14px;
+  text-decoration: none;
+  color: var(--secondary-color);
+  transition: all var(--speed);
+}
+a:hover {
+  color: var(--primary-color);
+}
+.link-active {
+  color: var(--primary-color);
+  border-top: solid 1px var(--primary-color);
+  border-bottom: solid 1px var(--primary-color);
+  font-weight: bold;
+  pointer-events: none;  
+}
+/* Image Styles */
+img {
+  width: 100%; 
+  height: auto; 
+  display: inline-block;  
+  transition: all var(--speed);
+}
+.object-fit {
+  object-fit: contain;
+  height: 100%;
+}
+.background-cover { 
+  background-position: center;
+  background-size: cover;
+}
+.centered-image {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.dragging {
+  opacity: 0.5;
+}
+/* Tables */
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+  width: 100%;
+}
+.bordered-table {
+  border: solid 1px #ccc;
+}
+.fixed-table {
+  table-layout: fixed;
+}
+th,
+td {
+  font-size: 12px; 
+  vertical-align: middle;
+  padding: 4px 10px;
+}
+th {
+  text-align: left; 
+  font-weight: 500;
+  padding: 16px 10px;
+  color: var(--primary-color);
+  white-space: nowrap;
+}
+.top-align th,
+.top-align td {
+  vertical-align: top;
+}
+/* Helper (BootStrap...ish) Classes */
+.d-flex {
+  display: flex;
+}
+.justify-content-between {
+  justify-content: space-between;
+}
+.justify-content-center {
+  justify-content: center;
+}
+.justify-content-end {
+  justify-content: flex-end;
+}
+.align-items-center {
+  align-items: center;
+}
+.scrollX {
+  overflow-x: auto;
+}
+.primary-color {
+  color: var(--primary-color);
+}
+.success {
+  color: var(--cta-green);
+}
+.danger {
+  color: red;
+}
+.whitespace-nowrap {
+  white-space: nowrap;
+}
+.text-center {
+  text-align: center;
+}
+.text-right {
+  text-align: right;
+}
+.no-font {
+  font-size: 0;
+}
+.relative {
+  position: relative;
+}
+.absolute {
+  position: absolute;
+}
+.float-r {
+  float: right;
+}
+.inactive {
+  pointer-events: none;
+}
+.round {
+  border-radius: 100%;
+}
+.cursor-pointer {
+  cursor: pointer;
+}
+/* Scrollbar Styles */
+::-webkit-scrollbar {
+  width: 12px; 
+  height :12px;
+}  
+::-webkit-scrollbar-track-piece {
+  background:#eee;
+} 
+::-webkit-scrollbar-button {
+  background:#ccc;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--primary-color); 
+  border-radius: 10px; 
+  border: solid 3px #fff;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #999; 
+  opacity: 0.5;
+}

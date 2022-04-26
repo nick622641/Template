@@ -1,0 +1,115 @@
+[{
+  "_id": {
+    "$oid": "6218e7f9ae4e15fb179afbf8"
+  },
+  "name": "Acrylic on Canvas",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6218e805ae4e15fb179afbfd"
+  },
+  "name": "Collage",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6218e80fae4e15fb179afc02"
+  },
+  "name": "Gouache",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6218e81aae4e15fb179afc07"
+  },
+  "name": "Ink",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6218e825ae4e15fb179afc0c"
+  },
+  "name": "Mixed Media",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6218e830ae4e15fb179afc11"
+  },
+  "name": "Oil on Canvas",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6218e83cae4e15fb179afc16"
+  },
+  "name": "Photography",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6218e84eae4e15fb179afc1b"
+  },
+  "name": "Prints",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6218e858ae4e15fb179afc20"
+  },
+  "name": "Sculpture",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6218e863ae4e15fb179afc25"
+  },
+  "name": "Watercolour",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6218e8e3ae4e15fb179afc2a"
+  },
+  "name": "Pencil",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6218e8f8ae4e15fb179afc2f"
+  },
+  "name": "Charcoal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6243184569a8019e890e26e0"
+  },
+  "name": "Oil Pastel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62540da56c25bc62035528b0"
+  },
+  "name": "Acrylic on Paper",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62639bd1dc67f240433a012e"
+  },
+  "name": "Digital Art",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264aed84f4edac2c8600845"
+  },
+  "name": "Pencil Crayon",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264b6283836e88c82ddf25d"
+  },
+  "name": "Compressed Charcoal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264cfdd631dc8cd399a8fbc"
+  },
+  "name": "3D Art",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6264d05b631dc8cd399a903f"
+  },
+  "name": "Photoshop",
+  "__v": 0
+}]
